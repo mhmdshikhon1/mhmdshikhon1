@@ -154,8 +154,8 @@ print(f"👾 Welcome to {me.name}\'s Data Universe!")
 <!-- ▌ FUN CODING GIFS ─────────────────────────────────────────────── -->
 <div align="center">
 
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663030976662/RT7zOnAHqXcE.gif" width="200"/>
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663030976662/xY5dM5pCTvB9.gif" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFzZTE5ZnZ1M3ljZGk0ZGtleDhnOXIwbmNtYTl0NHQ2ZWZ2OGJsOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<img src="[https://files.manuscdn.com/user_upload_by_module/session_file/310419663030976662/xY5dM5pCTvB9.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXF5Zjg5bm1xeHdyZXJhYjBxNmtmeHZ0eXljb2d4Zm5yYTAwb2d3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif)" width="200"/>
 
 </div>
 
