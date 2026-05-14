@@ -143,41 +143,50 @@ print(f"👾 Welcome to {me.name}'s Data Universe!")
 
 ---
 
-## 📊 GITHUB STATS
-
 <div align="center">
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdshikhon1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=0077B6&text_color=FFFFFF)
+<h2>📊 GITHUB STATS</h2>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdshikhon1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=mhmdshikhon1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=0077B6&text_color=FFFFFF" alt="Mohamed's GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmdshikhon1&theme=tokyonight&hide_border=true&background=0D1117&sideNums=00B4D8&stroke=00B4D8&ring=0077B6&fire=00B4D8&currStreakLabel=00B4D8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdshikhon1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF" alt="Most Used Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdshikhon1&theme=tokyonight&hide_border=true&background=0D1117&sideNums=00B4D8&stroke=00B4D8&ring=0077B6&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak" />
 
 </div>
 
-
 ---
 
-## 💭 **PHILOSOPHY & VISION**
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00B4D8&background=0D1117&center=true&vCenter=true&width=850&lines=Transforming+Data+into+Insights.;Unlocking+Value+from+Information.;Driving+Decisions+with+Analytics.;Mohamed+Shaikhoun"/>
+
+<h2>🎯 ANALYTICAL VISION</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00B4D8&background=0D1117&center=true&vCenter=true&width=850&lines=Translating+complex+datasets+into+actionable+insights.;Empowering+strategic+growth+through+advanced+analytics.;Uncovering+hidden+patterns+to+drive+optimization.;Mohamed+Shaikhoun+-+Data+Analyst"/>
+<br/>
 <br/>
 <img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Data%20Coding%20GIF%20by%20Pudgy%20Penguins.gif" width="550"/>
+
 </div>
 
 ---
 
-## 📬 CONNECT WITH ME
-
 <div align="center">
 
-### Ready to solve complex problems with data? Let’s connect!
+<h2>📬 CONNECT WITH ME</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mohamedshaikhoun/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0077B6?style=for-the-badge&logo=safari&logoColor=white&labelColor=101010)](https://mhmdshikhon1.github.io/My-Portfolio/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mhmdshikhon888@gmail.com)
+<h3>Let’s drive better decisions through data analysis!</h3>
 
+<a href="https://www.linkedin.com/in/mohamedshaikhoun/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
+</a>
+<a href="https://mhmdshikhon1.github.io/My-Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-0077B6?style=for-the-badge&logo=safari&logoColor=white&labelColor=101010" alt="Portfolio">
+</a>
+<a href="mailto:mhmdshikhon888@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email">
+</a>
+
+<br/>
 <br/>
 <img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Work%20Working%20GIF%20by%20Pudgy%20Penguins.gif" width="550"/>
 
