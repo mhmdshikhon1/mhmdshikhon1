@@ -145,13 +145,20 @@ print(f"👾 Welcome to {me.name}'s Data Universe!")
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhmdshikhon1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=0077B6&text_color=FFFFFF"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdshikhon1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF"/>
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=mhmdshikhon1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=0077B6&text_color=FFFFFF&count_private=true" alt="Mohamed's GitHub Stats" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mhmdshikhon1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00B4D8&ring=0077B6&fire=00B4D8&currStreakLabel=00B4D8)](https://git.io/streak-stats)
+<br/>
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdshikhon1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF" alt="Most Used Languages" />
+
+<br/>
+
+<!-- GitHub Streak Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdshikhon1&theme=tokyonight&hide_border=true&background=0D1117&sideNums=00B4D8&stroke=00B4D8&ring=0077B6&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak" />
 
 </div>
-
 ---
 
 ## 💭 **PHILOSOPHY & VISION**
@@ -168,7 +175,7 @@ print(f"👾 Welcome to {me.name}'s Data Universe!")
 
 <div align="center">
 
-### Let's build something impactful together!
+### Ready to solve complex problems with data? Let’s connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mohamedshaikhoun/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0077B6?style=for-the-badge&logo=safari&logoColor=white&labelColor=101010)](https://mhmdshikhon1.github.io/My-Portfolio/)
