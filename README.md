@@ -1,13 +1,18 @@
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  GitHub Profile README — mhmdshikhon1                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ▌ HEADER BANNER ─────────────────────────────────────────────── -->
-<!-- ▌ HEADER BANNER ─────────────────────────────────────────────── -->
 <div align="center">
 
 ![Header](https://files.manuscdn.com/user_upload_by_module/session_file/310419663030976662/hZfGWBeoMpRwggVZ.png)
+
+<!-- ▌ ANIMATED ILLUSTRATIONS ──────────────────────────────────────── -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/animation%20illustration%20GIF%20by%20Tony%20Babel.gif" width="250"/>
+<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif" width="250"/>
+</div>
+
 <!-- ▌ TYPING ANIMATION ────────────────────────────────────────────── -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%F0%9F%93%8A+Transforming+data+into+actionable+insights;%F0%9F%90%8D+SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Databases;%F0%9F%8E%AF+DEPI+Data+Analytics+Track+%E2%80%94+Alexandria+Univ.;%F0%9F%9A%80+Continuously+learning+and+building+impactful+projects)](https://git.io/typing-svg)
 
@@ -59,7 +64,7 @@ class DataAnalyst:
 
 # ▶ Run
 me = DataAnalyst()
-print(f"👾 Welcome to {me.name}\'s Data Universe!")
+print(f"👾 Welcome to {me.name}'s Data Universe!")
 ```
 
 ---
@@ -70,7 +75,7 @@ print(f"👾 Welcome to {me.name}\'s Data Universe!")
 
 | 🎓 Program | 🐍 Primary Lang | 📊 BI Tool | 🗃️ Databases | 🌍 Location |
 |:-----------:|:---------------:|:----------:|:-----------:|:-----------:|
-| **DEPI \'25** | **Python** | **Power BI** | **SQL Server / MySQL / SQLite** | **Alex 🇪🇬** |
+| **DEPI '25** | **Python** | **Power BI** | **SQL Server / MySQL / SQLite** | **Alex 🇪🇬** |
 
 </div>
 
@@ -111,7 +116,7 @@ print(f"👾 Welcome to {me.name}\'s Data Universe!")
 | 🔍 **Chicago Crime Analytics** | 📊 **Liverpool FC Marketing Dashboard** |
 |:---|:---|
 | [![Chicago Crime](https://img.shields.io/badge/🔗_View_Project-0077B6?style=flat-square&labelColor=03045E)](https://github.com/mhmdshikhon1/DSM-project-) | [![LFC Dashboard](https://img.shields.io/badge/🔗_View_Project-0077B6?style=flat-square&labelColor=03045E)](https://github.com/mhmdshikhon1/Liverpool-FC-Official-Store---2025-Marketing-Analytics-Dashboard-Power-BI-) |
-|  | ![Liverpool FC Dashboard Image](https://raw.githubusercontent.com/mhmdshikhon1/Liverpool-FC-Official-Store---2025-Marketing-Analytics-Dashboard-Power-BI-/main/image_2026-05-04_01-07-24.png) |
+| ![Chicago Crime Image](https://raw.githubusercontent.com/mhmdshikhon1/DSM-project-/main/project-crimes-fotor-20260217165411.png) | ![Liverpool FC Dashboard Image](https://raw.githubusercontent.com/mhmdshikhon1/Liverpool-FC-Official-Store---2025-Marketing-Analytics-Dashboard-Power-BI-/main/image_2026-05-04_01-07-24.png) |
 | `Python` `Pandas` `Matplotlib` `Seaborn` | `Power BI` `DAX` `SQL` `Excel` |
 | ```📌 Dataset : 1.2M+ crime records``` | ```📌 Dataset : 50,000+ transactions``` |
 | Temporal & spatial crime pattern analysis across Chicago neighborhoods. Full EDA + visualization pipeline. | High-fidelity Power BI dashboard for Liverpool FC store marketing and sales performance. Dynamic UX/UI with Glassmorphism. |
@@ -124,6 +129,14 @@ print(f"👾 Welcome to {me.name}\'s Data Universe!")
 | ```📌 Data : AdventureWorks Dataset``` | ```📌 Data : Sales & Profitability Data``` |
 | Comprehensive sales performance analysis from SQL extraction to Power BI visualization. Key KPIs, geographic, product, and time series analysis. | End-to-end Power BI dashboard analyzing sales and profitability, comparing YTD vs PYTD metrics. Dynamic measures and advanced visualizations. |
 
+| 📊 **Viva Calif Sales & Customer Insights** | 🎓 **University Course Registration System** |
+|:---|:---|
+| [![Viva Calif Sales](https://img.shields.io/badge/🔗_View_Project-0077B6?style=flat-square&labelColor=03045E)](https://github.com/mhmdshikhon1/Viva-Calif-Sales) | [![DB University Course Registration](https://img.shields.io/badge/🔗_View_Project-0077B6?style=flat-square&labelColor=03045E)](https://github.com/mhmdshikhon1/DB-University-Course-Registration-) |
+| ![Viva Calif Sales Dashboard Image](https://raw.githubusercontent.com/mhmdshikhon1/Viva-Calif-Sales/main/f2b1e547-051c-47cc-b97d-96541e8120ec.png) | ![University Course Registration Image](https://raw.githubusercontent.com/mhmdshikhon1/DB-University-Course-Registration-/main/screenshots/WhatsApp%20Image%202026-02-09%20at%2011.17.45%20PM.jpeg) |
+| `Excel` | `Python` `SQL` |
+| ```📌 Data : E-commerce Sales Data``` | ```📌 Data : University Course Data``` |
+| Comprehensive sales performance and customer behavior analysis dashboard built in Excel, visualizing key business metrics and trends. | A comprehensive management system for university course registrations, covering database design and implementation. |
+
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
 
 ---
@@ -132,8 +145,8 @@ print(f"👾 Welcome to {me.name}\'s Data Universe!")
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhmdshikhon1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=0077B6&text_color=FFFFFF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdshikhon1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mhmdshikhon1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=0077B6&text_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdshikhon1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mhmdshikhon1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00B4D8&ring=0077B6&fire=00B4D8&currStreakLabel=00B4D8)](https://git.io/streak-stats)
 
@@ -141,21 +154,29 @@ print(f"👾 Welcome to {me.name}\'s Data Universe!")
 
 ---
 
-## 📬 CONNECT
+## 💭 **PHILOSOPHY & VISION**
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00B4D8&background=0D1117&center=true&vCenter=true&width=850&lines=Transforming+Data+into+Insights.;Unlocking+Value+from+Information.;Driving+Decisions+with+Analytics.;Mohamed+Shaikhoun"/>
+<br/>
+<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Data%20Coding%20GIF%20by%20Pudgy%20Penguins.gif" width="200"/>
+</div>
+
+---
+
+## 📬 CONNECT WITH ME
+
+<div align="center">
+
+### Let's build something impactful together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mohamedshaikhoun/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0077B6?style=for-the-badge&logo=safari&logoColor=white&labelColor=101010)](https://mhmdshikhon1.github.io/My-Portfolio/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mhmdshikhon888@gmail.com)
 
-</div>
-
-<!-- ▌ FUN CODING GIFS ─────────────────────────────────────────────── -->
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFzZTE5ZnZ1M3ljZGk0ZGtleDhnOXIwbmNtYTl0NHQ2ZWZ2OGJsOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-<img src="[https://files.manuscdn.com/user_upload_by_module/session_file/310419663030976662/xY5dM5pCTvB9.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXF5Zjg5bm1xeHdyZXJhYjBxNmtmeHZ0eXljb2d4Zm5yYTAwb2d3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif)" width="200"/>
+<br/>
+<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Work%20Working%20GIF%20by%20Pudgy%20Penguins.gif" width="200"/>
 
 </div>
+
 
