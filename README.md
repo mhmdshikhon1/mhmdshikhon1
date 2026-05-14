@@ -146,11 +146,6 @@ print(f"👾 Welcome to {me.name}'s Data Universe!")
 <div align="center">
 
 <h2>📊 GITHUB STATS</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mhmdshikhon1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=0077B6&text_color=FFFFFF" alt="Mohamed's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdshikhon1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF" alt="Most Used Languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdshikhon1&theme=tokyonight&hide_border=true&background=0D1117&sideNums=00B4D8&stroke=00B4D8&ring=0077B6&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak" />
 
 </div>
