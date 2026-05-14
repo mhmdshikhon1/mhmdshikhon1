@@ -5,12 +5,14 @@
 <!-- ▌ HEADER BANNER ─────────────────────────────────────────────── -->
 <div align="center">
 
-![Header](https://files.manuscdn.com/user_upload_by_module/session_file/310419663030976662/hZfGWBeoMpRwggVZ.png)
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663030976662/hZfGWBeoMpRwggVZ.png" width="100%" alt="Header" />
+
+<br>
 
 <!-- ▌ ANIMATED ILLUSTRATIONS ──────────────────────────────────────── -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/animation%20illustration%20GIF%20by%20Tony%20Babel.gif" width="250"/>
-<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif" width="250"/>
+<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/animation%20illustration%20GIF%20by%20Tony%20Babel.gif" width="49%"/>
+<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif" width="49%"/>
+
 </div>
 
 <!-- ▌ TYPING ANIMATION ────────────────────────────────────────────── -->
@@ -145,20 +147,15 @@ print(f"👾 Welcome to {me.name}'s Data Universe!")
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=mhmdshikhon1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=0077B6&text_color=FFFFFF&count_private=true" alt="Mohamed's GitHub Stats" />
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdshikhon1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=0077B6&text_color=FFFFFF)
 
-<br/>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdshikhon1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF)
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdshikhon1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF" alt="Most Used Languages" />
-
-<br/>
-
-<!-- GitHub Streak Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdshikhon1&theme=tokyonight&hide_border=true&background=0D1117&sideNums=00B4D8&stroke=00B4D8&ring=0077B6&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmdshikhon1&theme=tokyonight&hide_border=true&background=0D1117&sideNums=00B4D8&stroke=00B4D8&ring=0077B6&fire=00B4D8&currStreakLabel=00B4D8)
 
 </div>
+
+
 ---
 
 ## 💭 **PHILOSOPHY & VISION**
@@ -166,7 +163,7 @@ print(f"👾 Welcome to {me.name}'s Data Universe!")
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00B4D8&background=0D1117&center=true&vCenter=true&width=850&lines=Transforming+Data+into+Insights.;Unlocking+Value+from+Information.;Driving+Decisions+with+Analytics.;Mohamed+Shaikhoun"/>
 <br/>
-<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Data%20Coding%20GIF%20by%20Pudgy%20Penguins.gif" width="200"/>
+<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Data%20Coding%20GIF%20by%20Pudgy%20Penguins.gif" width="550"/>
 </div>
 
 ---
@@ -182,7 +179,7 @@ print(f"👾 Welcome to {me.name}'s Data Universe!")
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mhmdshikhon888@gmail.com)
 
 <br/>
-<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Work%20Working%20GIF%20by%20Pudgy%20Penguins.gif" width="200"/>
+<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Work%20Working%20GIF%20by%20Pudgy%20Penguins.gif" width="550"/>
 
 </div>
 
