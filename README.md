@@ -10,8 +10,8 @@
 <br>
 
 <!-- ▌ ANIMATED ILLUSTRATIONS ──────────────────────────────────────── -->
-<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/animation%20illustration%20GIF%20by%20Tony%20Babel.gif" width="49%"/>
-<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif" width="49%"/>
+<!--<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/animation%20illustration%20GIF%20by%20Tony%20Babel.gif" width="49%"/>-->
+<!--<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif" width="49%"/>-->
 
 </div>
 
