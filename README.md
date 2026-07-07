@@ -77,7 +77,7 @@ print(f"👾 Welcome to {me.name}'s Data Universe!")
 
 | 🎓 Program | 🐍 Primary Lang | 📊 BI Tool | 🗃️ Databases | 🌍 Location |
 |:-----------:|:---------------:|:----------:|:-----------:|:-----------:|
-| **DEPI '25** | **Python** | **Power BI** | **SQL Server / MySQL / SQLite** | **Alex 🇪🇬** |
+| **DEPI-R4** | **Python** | **Power BI** | **SQL Server / MySQL / SQLite** | **Alex 🇪🇬** |
 
 </div>
 
