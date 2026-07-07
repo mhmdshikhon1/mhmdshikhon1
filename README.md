@@ -159,7 +159,7 @@ print(f"👾 Welcome to {me.name}'s Data Universe!")
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00B4D8&background=0D1117&center=true&vCenter=true&width=850&lines=Translating+complex+datasets+into+actionable+insights.;Empowering+strategic+growth+through+advanced+analytics.;Uncovering+hidden+patterns+to+drive+optimization.;Mohamed+Shaikhoun+-+Data+Analyst"/>
 <br/>
 <br/>
-<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Data%20Coding%20GIF%20by%20Pudgy%20Penguins.gif" width="550"/>
+<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Data%20Coding%20GIF%20by%20Pudgy%20Penguins.gif" width="300"/>
 
 </div>
 
@@ -183,7 +183,7 @@ print(f"👾 Welcome to {me.name}'s Data Universe!")
 
 <br/>
 <br/>
-<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Work%20Working%20GIF%20by%20Pudgy%20Penguins.gif" width="550"/>
+<img src="https://raw.githubusercontent.com/mhmdshikhon1/mhmdshikhon1/main/Work%20Working%20GIF%20by%20Pudgy%20Penguins.gif" width="300"/>
 
 </div>
 
